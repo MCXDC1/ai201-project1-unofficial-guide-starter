@@ -9,7 +9,7 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+I chose to do the a review of the engineering department at a university. This is difficult to get through official channels as most universities do not present information on which professors are better than others and which classes go well together or should be taken in different semesters. Using information across online sources you can find an honest opinion on courses, professors, and coursework of the engineering department. It will also focus on the community surrounding the majors.
 
 ---
 
@@ -20,31 +20,38 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | USNEWS| General information about the engineering department. Rankings across US. | https://www.usnews.com/best-graduate-schools/top-engineering-schools/university-of-connecticut-02036 |
+| 2 | Reddit| Student discussion on academic pressure in department| https://www.reddit.com/r/UCONN/comments/1blyp5m/how_hard_is_engineering_academic_pressure_and/ |
+| 3 | Reddit | Student discussion on engineering professors | https://www.reddit.com/r/UCONN/comments/1f1t50k/how_are_the_engineering_professors_at_uconn/ |
+| 4 | Quora| Review on CS department at university| https://www.quora.com/How-is-the-Computer-Science-Department-at-UCONN|
+| 5 |Reddit | Student discussion on women in engineering communities  | https://www.reddit.com/r/UCONN/comments/12yw9mn/choosing_an_engineering_lc/|
+| 6 | UCONN | Official information on engineering oppurtunities| https://advising.engineering.uconn.edu/support-opportunities/engineering-experiential-education/ |
+| 7 | RateMyProfessor| Ranking of every engineering professor | https://www.ratemyprofessors.com/search/professors/1091?q=*&did=17 |
+| 8 | UCONN| Information about the female population in engineering| https://today.uconn.edu/2021/10/uconn-engineering-records-largest-female-freshman-class-at-storrs-in-history/ |
+| 9 | UCONN | Information on UCONN's lead in female engineers| https://today.uconn.edu/2019/11/uconn-national-leader-educating-women-engineers/|
+| 10 | UCONN | General requirements for engineers in department| https://catalog.uconn.edu/undergraduate/engineering/#requirementstext |
 
 ---
 
 ## Chunking Strategy
+
 
 <!-- How will you split documents into chunks?
      State your chunk size (in tokens or characters), overlap size, and explain why those
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
+     When researching the best way to split documents that vary, I think that I will need to scan my sources before I decide how I will split it. The reddit comments will need to be split different compared to my articles.
+
 **Chunk size:**
+Reddit/Quora?Ratings: One chunk per comment/review
 
 **Overlap:**
+Will matter with articles, not with rate my professor or reddit comments
 
 **Reasoning:**
+
+Ratings/reviews are easier to split and individually understand but the news will need context
 
 ---
 
@@ -57,10 +64,13 @@
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
+5
 
 **Production tradeoff reflection:**
+I would be able to value different opinions higher, where a student on reddit saying one thing about a professor could be debated by an article specifically detailing how great one professor is, maybe more accuracy when comparing. I would also extend context length within reviews as responses to other reviews could provide context that gets lost.
 
 ---
 
@@ -73,11 +83,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Is UCONN's engineering academically rigorous? | It is comparably average to other universities, but can be hard to catch back up if you fall behind in earlier years|
+| 2 | Is there a good female community in UCONN's college of engineering? | Sources say that the population of females in engineering has gone up with leadership positions being heavily pursued by female engineers.|
+| 3 | What community should I join as a female engineer at UCONN? | The Engineering LC seems to be have more oppurtunities and more time spent on its students.|
+| 4 | Is the graduate program good for CS majors at UCONN?| Yes, it provides research oppurtunities and funding.|
+| 5 | Does UCONN's engineering department compare to other universities?| It is above average in comparison to most public universiites in the US.|
 
 ---
 
@@ -87,9 +97,9 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. The rate my professor has a lot of information but the entire page needs to load which might not keep all of it.
 
-2.
+2. The reddit/ quora forum could have comments that get have untrue/outdated information.
 
 ---
 
@@ -116,7 +126,13 @@
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+Claude
+I will give it the websites I plan to use and see how I should go about chunking the different sources. It will most likely explain what each website will need from me. I will go to each website and make sure I am retrieving the right information.
 
 **Milestone 4 — Embedding and retrieval:**
+Claude
+I will use my test questions and see how it is comparing.
 
 **Milestone 5 — Generation and interface:**
+Claude
+I will use my test questions and see if it provides accurate sources and is using the info from my websites.
