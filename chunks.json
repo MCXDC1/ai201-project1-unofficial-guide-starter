@@ -1,0 +1,522 @@
+[
+  {
+    "id": "01_usnews_ranking::0",
+    "source": "01_usnews_ranking.txt",
+    "chunk_index": 0,
+    "text": "University of Connecticut is ranked No. 58 (tie) out of 194 in Best Engineering Schools\nThe School of Engineering at University of Connecticut has a rolling application deadline. The application fee is $75 for U.S. residents and $75 for international students. Its tuition is full-time: $19,512 per year (in-state); full-time: $41,424 per year (out-of-state); part-time: $1,084 per credit (in-state); and part-time: $2,302 per credit (out-of-state). The 2025 Ph.D. student-faculty ratio is 3.3:1. The School of Engineering at University of Connecticut has 162 full-time faculty on staff.",
+    "n_chars": 587,
+    "strategy": "overlap"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::0",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 0,
+    "text": "How hard is engineering academic pressure and work load at UConn Storrs?\nAccepted into several schools for engineering and UConn stands out as one of the more selective. Heard that UConn engineering is rigorous, and am worried about potentially high academic pressure /workload, in comparison to other schools. I have a good GPA (3.9) but engineering is hard as rule and I have ADHD, so I’m actually considering another (less selective, smaller) state university that also has a good engineering program (although not as good as UConn), to increase the odds I can manage the workload. Thoughts? Cost would be only a bit lower at the other university as well. Thank you!",
+    "n_chars": 669,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::1",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 1,
+    "text": "Thank you. I heard stories of it being easy rigorous, people having to retake classes, etc. I was also wondering if there is sufficient access to professors or if students are just a number throughout their time there? Thank you",
+    "n_chars": 228,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::2",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 2,
+    "text": "UConn Alum 1983 - Any good engineering program worth its salt is going to be rigorous. As someone who wasn't the most focused engineering student (EE), I made it harder than I needed it to be. If you are in Engineering School, remember you are there to get a degree - the fun will come later. If you can take some courses over the summer to get some coursework out of the way, do that. It is not a race - whether you take 4 years or 6 years, you get the same degree.",
+    "n_chars": 466,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::3",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 3,
+    "text": "Thanks for summer suggestion- I am considering that!",
+    "n_chars": 52,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::4",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 4,
+    "text": "(2021) BME/ME\nI think pretty much all schools have students that retake classes for some reason or another, it's definitely not a widespread problem that students have to retake classes here though. It depends on the class/major/professor but most professors will have office hours where they are happy to help you and teaching assistant office hours where you can spend more time going over practice problems and such",
+    "n_chars": 418,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::5",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 5,
+    "text": "TY! Appreciate your feedback.",
+    "n_chars": 29,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::6",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 6,
+    "text": "You can handle the workload. You are doing yourself a disservice by not choosing the program that will prepare you the most and offer the most opportunities. To be honest I think a lot of departments (especially CS but not rlly engineering) fall short in terms of rigor.",
+    "n_chars": 270,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::7",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 7,
+    "text": "Thank you for your supportive words and thoughts on the school.",
+    "n_chars": 63,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::8",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 8,
+    "text": "Engineering will always be tough, as it should be. But with dedication and perseverance, you’ll get through just fine. My personal recommendation, get yourself involved in undergraduate research early, by the beginning of your sophomore year.",
+    "n_chars": 242,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::9",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 9,
+    "text": "I meant very rigorous, not easy, sorry!",
+    "n_chars": 39,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::10",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 10,
+    "text": "UConn is a pretty good school for engineering. Tbh if you go to lecture and keep up with the course works you will be fine. AS LONG AS YOU DONT FALL BEHIND, the exams are somewhat easy. The first two years of college is light, but still do your best to not fail as class will get harder each semester. All majors are rigorous if you don’t study enough for it, and that’s a fact.",
+    "n_chars": 378,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::11",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 11,
+    "text": "Thank you for your feedback. Appreciated!!",
+    "n_chars": 42,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::12",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 12,
+    "text": "UConn has a special focus in teaching neurodiverse engineering students (including ADHD and dyslexia) so I think you would find the support there better than most other schools. They have federal grants to serve students and explore research projects that take advantage of neurodiversity as a strength. Contact the institution to ask about it if you want to know more.\nhttps://neurodiversity.engineering.uconn.edu/",
+    "n_chars": 415,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::13",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 13,
+    "text": "Thank you for this!!",
+    "n_chars": 20,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::14",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 14,
+    "text": "I would recommend starting your engineering program at a UConn regional campus where your foundation classes will be much smaller sized. Professors are excellent, engaged and very accessible. It will set you up for success and likely save you a lot of money. There are free peer tutors available for nearly every class to assure you are staying on track. You would then transition to the main campus after 2 years or potentially sooner if you have AP or ECE credits.",
+    "n_chars": 466,
+    "strategy": "review"
+  },
+  {
+    "id": "02_reddit_academic_pressure.reviews::15",
+    "source": "02_reddit_academic_pressure.reviews.txt",
+    "chunk_index": 15,
+    "text": "Garbage advice. Hit the ground running at Storrs, then you’ll never have to deal with transferring, not having the classes you need offered, etc.",
+    "n_chars": 145,
+    "strategy": "review"
+  },
+  {
+    "id": "03_reddit_professors.reviews::0",
+    "source": "03_reddit_professors.reviews.txt",
+    "chunk_index": 0,
+    "text": "How are the engineering professors at UCONN\nHello I’m a CCSU student and I am considering transferring to UConn storrs for civil engineering I have heard awful things abt the engineering dep here and heavenly things about the ones at UConn so I am just asking what are your guys opinion on the workload do you find it stressful or manageable?",
+    "n_chars": 342,
+    "strategy": "review"
+  },
+  {
+    "id": "03_reddit_professors.reviews::1",
+    "source": "03_reddit_professors.reviews.txt",
+    "chunk_index": 1,
+    "text": "It can get stressful, but if an engineering major isn’t stressful it’s probably not a great program tbh",
+    "n_chars": 103,
+    "strategy": "review"
+  },
+  {
+    "id": "04_quora_cs_department.reviews::0",
+    "source": "04_quora_cs_department.reviews.txt",
+    "chunk_index": 0,
+    "text": "I am a graduate student and PhD candidate in the department of computer science, UConn. I would rate the department as above average in research and funding but If you fall in right hands you may pursue really good research here. Having said that, I should add this very important point that research is something the PhD candidate does. Advisor only guides you. So when it comes to research lot depends on you. There are some professors who does really good research and has a lot of funds. I haven’t worked with all of them but among the profs I know, Dr Sanguthevar Rajasekaran, Dr Jinbo Bi, Dr Ion Mandoiu and Dr. Dong Guk Shin are very well known for their research. All these profs publish papers in the best journals in their areas. Along with them I strongly recommend Dr. Mukul Bansal, Dr Don Sheehy(he works in computational geometry) and Dr Yufeng Wu, if you want to work on areas like Bioinformatics and/or Machine Learning (especially in bio(medical) informatics). Since I work in these areas, I came in contact with only these profs and took their classes. Hence, I am not the right candidate to comment about others. Compared to other uconn depts (like Chemistry, Biology) we have less TA opportunities in CS dept but if you are given admission for PhD you are almost always offered full funding in some form (RA and/or TA).",
+    "n_chars": 1339,
+    "strategy": "review"
+  },
+  {
+    "id": "05_reddit_engineering_lc.reviews::0",
+    "source": "05_reddit_engineering_lc.reviews.txt",
+    "chunk_index": 0,
+    "text": "choosing an engineering lc\nhello! i'm an incoming freshman and wondering whether I should apply to WiMSE or the Engineering house. what are the major differences? could anyone in either share their experience? thanks!",
+    "n_chars": 217,
+    "strategy": "review"
+  },
+  {
+    "id": "05_reddit_engineering_lc.reviews::1",
+    "source": "05_reddit_engineering_lc.reviews.txt",
+    "chunk_index": 1,
+    "text": "(2025) MCB\nYou have a higher chance of getting into engineering as a woman because there's so fewer women in engineering. Any of the Werth LCs are hot commodities because Werth is easily the best freshman housing. As a member of WiMSE, I would say choose WiMSE if you want a quieter floor and choose engineering for any other reason.",
+    "n_chars": 333,
+    "strategy": "review"
+  },
+  {
+    "id": "05_reddit_engineering_lc.reviews::2",
+    "source": "05_reddit_engineering_lc.reviews.txt",
+    "chunk_index": 2,
+    "text": "not in either but i work closely with the engineering house leader, and they're both in Werth so location is perfect. I think they do similar activities. it mainly comes down to whether or not you wanna live on the same floor as men lol",
+    "n_chars": 236,
+    "strategy": "review"
+  },
+  {
+    "id": "05_reddit_engineering_lc.reviews::3",
+    "source": "05_reddit_engineering_lc.reviews.txt",
+    "chunk_index": 3,
+    "text": "I am currently in the Engineering LC. In my opinion I would say the Engr over WIMSE simply because I think we have more events to help as an engineer. We have tutoring every monday and wednesday night in the classroom in Werth. Its really helpful. Also you know everyone in the Engr LC will be in the same boat as you. If you have a calc exam coming up so does everyone on your floor and with Wimse it may differ.",
+    "n_chars": 413,
+    "strategy": "review"
+  },
+  {
+    "id": "05_reddit_engineering_lc.reviews::4",
+    "source": "05_reddit_engineering_lc.reviews.txt",
+    "chunk_index": 4,
+    "text": "From personal experience with both… I would go with engineering. It’s easier to get into as a woman. It’s super nice having people in similar classes on your floor, because you will all be able to collaborate. Lastly, engineering usually has a bit less drama than WiMSE and tends to be less cliquey.\nAgain, this is just my experience. Both are great, and will make your transition into college go smooth! LC’s are amazing!",
+    "n_chars": 422,
+    "strategy": "review"
+  },
+  {
+    "id": "05_reddit_engineering_lc.reviews::5",
+    "source": "05_reddit_engineering_lc.reviews.txt",
+    "chunk_index": 5,
+    "text": "(2026) Computer Science\nas a girl, you're more likely to get accepted into the engineering floor. I have some friends in the engineering LC and it's always a fun time when I go to visit them. The floor is very social.",
+    "n_chars": 217,
+    "strategy": "review"
+  },
+  {
+    "id": "06_uconn_experiential_ed::0",
+    "source": "06_uconn_experiential_ed.txt",
+    "chunk_index": 0,
+    "text": "Engineering Experiential Education\n\nIn Engineering disciplines, experiential education plays a crucial role in preparing students for the complexities of their chosen field. Experiential learning bridges this gap with traditional classroom learning by allowing students to engage in special projects, service-learning, internship and Co-op programs, and research opportunities that allow them to take on authentic engineering issues. Through this work, students gain practical, professional and creative skills and perspectives that supplement their engineering curriculum, and provide memorable experiences to enhance their personal development as well as their identity as engineers.\n\nInternational Engineering Programs\n\nThe College of Engineering’s International Engineering Programs offers",
+    "n_chars": 793,
+    "strategy": "overlap"
+  },
+  {
+    "id": "06_uconn_experiential_ed::1",
+    "source": "06_uconn_experiential_ed.txt",
+    "chunk_index": 1,
+    "text": "as their identity as engineers.\n\nInternational Engineering Programs\n\nThe College of Engineering’s International Engineering Programs offers unparalleled experiences both on campus and abroad for students looking to become global engineers. Students can participate in international programming on campus through an enrichment program titled Engineers Around the World, which promotes discourse and engagement for all engineers interested in an educational experience abroad. Additionally, students with a specific language and culture focus can enroll in one of IEP’s 5-year, dual degree programs, where enrolled students earn two degrees simultaneously: a BSE or BS in their engineering discipline and a BA in French, German or Spanish. By combining the power of a strong engineering program and",
+    "n_chars": 796,
+    "strategy": "overlap"
+  },
+  {
+    "id": "06_uconn_experiential_ed::2",
+    "source": "06_uconn_experiential_ed.txt",
+    "chunk_index": 2,
+    "text": "a BSE or BS in their engineering discipline and a BA in French, German or Spanish. By combining the power of a strong engineering program and the immersion in a foreign language and culture (which includes a full academic-year abroad), the five-year, dual degree program prepares students for rewarding careers in a diverse array of engineering fields in a global context.\n\nLearn More About International Engineering\n\nEngineering Career Experiences and Industry Engagement\n\nEngineering students have the opportunity to enhance their education through internships, Co-ops, and industry engagement. Internships offer students short-term, hands-on experience in real-world settings, allowing them to apply classroom knowledge and develop professional skills. Co-ops are typically longer (generally",
+    "n_chars": 794,
+    "strategy": "overlap"
+  },
+  {
+    "id": "06_uconn_experiential_ed::3",
+    "source": "06_uconn_experiential_ed.txt",
+    "chunk_index": 3,
+    "text": "in real-world settings, allowing them to apply classroom knowledge and develop professional skills. Co-ops are typically longer (generally through an academic semester but can span an entire year) and have integrated benchmarks into the academic curriculum. These programs are vital for career development, as they enable students to build networks, gain insights into various engineering fields, and enhance their resumes. Industry engagement opportunities, such as project collaborations, site visits, and mentorship programs, further enrich students' learning experiences. By participating in these programs, students can make informed career choices, increase their employability, and transition smoothly from academia to the professional world.\n\nAccess Experiential Learning",
+    "n_chars": 779,
+    "strategy": "overlap"
+  },
+  {
+    "id": "06_uconn_experiential_ed::4",
+    "source": "06_uconn_experiential_ed.txt",
+    "chunk_index": 4,
+    "text": "increase their employability, and transition smoothly from academia to the professional world.\n\nAccess Experiential Learning Resources\n\nEngineering Learning Communities\n\nLearning Communities at UConn allow students with similar majors and interests to live together in a residence hall and actively engage with the campus community. The Engineering House Learning Community (EHLC) is the primary program facilitated by the College of Engineering, but there are other related programs that offer similar living and learning experiences. Students in learning communities participate in:\n\nOne-credit seminar courses for first-year education & university assimilation\n\nService-learning and experiential courses for sophomores\n\nStudent leadership positions/programs within the communities\n\nSocial and",
+    "n_chars": 795,
+    "strategy": "overlap"
+  },
+  {
+    "id": "06_uconn_experiential_ed::5",
+    "source": "06_uconn_experiential_ed.txt",
+    "chunk_index": 5,
+    "text": "assimilation\n\nService-learning and experiential courses for sophomores\n\nStudent leadership positions/programs within the communities\n\nSocial and cultural events\n\nStudy groups\n\nVolunteer work in areas of interest\n\nPre-professional opportunities (i.e. internships and Co-ops)\n\nAccess to faculty, staff, and peer advisors\n\nGuest speakers\n\nOff-campus experiences and community/industry engagement\n\nLearning Communities offer a fun way for students to experience UConn through a smaller, close-knit community. They place students on a path to make the most out of their time at UConn by creating a rich and integrated university experience by offering an open space to gain a better understanding of themselves and the world around them.\n\nExplore the Engineering Learning Communities",
+    "n_chars": 778,
+    "strategy": "overlap"
+  },
+  {
+    "id": "07_ratemyprofessor.reviews::0",
+    "source": "07_ratemyprofessor.reviews.txt",
+    "chunk_index": 0,
+    "text": "Xiao-Dong Zhou — Engineering, University of Connecticut. Quality 4.3/5 from 7 ratings. 88% would take again. Difficulty 3/5.",
+    "n_chars": 124,
+    "strategy": "review"
+  },
+  {
+    "id": "07_ratemyprofessor.reviews::1",
+    "source": "07_ratemyprofessor.reviews.txt",
+    "chunk_index": 1,
+    "text": "Sabato Santaniello — Engineering, University of Connecticut. Quality 4.0/5 from 3 ratings. 67% would take again. Difficulty 3.7/5.",
+    "n_chars": 130,
+    "strategy": "review"
+  },
+  {
+    "id": "07_ratemyprofessor.reviews::2",
+    "source": "07_ratemyprofessor.reviews.txt",
+    "chunk_index": 2,
+    "text": "Alexandra Hain — Engineering, University of Connecticut. Quality 5.0/5 from 4 ratings. 80% would take again. Difficulty 2.8/5.",
+    "n_chars": 126,
+    "strategy": "review"
+  },
+  {
+    "id": "07_ratemyprofessor.reviews::3",
+    "source": "07_ratemyprofessor.reviews.txt",
+    "chunk_index": 3,
+    "text": "Alexander Dupuy — Engineering, University of Connecticut. Quality 3.5/5 from 8 ratings. 80% would take again. Difficulty 2.5/5.",
+    "n_chars": 127,
+    "strategy": "review"
+  },
+  {
+    "id": "07_ratemyprofessor.reviews::4",
+    "source": "07_ratemyprofessor.reviews.txt",
+    "chunk_index": 4,
+    "text": "Georges Pavlidis — Engineering, University of Connecticut. Quality 5.0/5 from 7 ratings. 100% would take again. Difficulty 2.6/5.",
+    "n_chars": 129,
+    "strategy": "review"
+  },
+  {
+    "id": "07_ratemyprofessor.reviews::5",
+    "source": "07_ratemyprofessor.reviews.txt",
+    "chunk_index": 5,
+    "text": "Shinae Jang — Engineering, University of Connecticut. Quality 4.0/5 from 66 ratings. 89% would take again. Difficulty 2.8/5.",
+    "n_chars": 124,
+    "strategy": "review"
+  },
+  {
+    "id": "07_ratemyprofessor.reviews::6",
+    "source": "07_ratemyprofessor.reviews.txt",
+    "chunk_index": 6,
+    "text": "Sarira Motaref — Engineering, University of Connecticut. Quality 4.6/5 from 93 ratings. 92% would take again. Difficulty 2.6/5.",
+    "n_chars": 127,
+    "strategy": "review"
+  },
+  {
+    "id": "07_ratemyprofessor.reviews::7",
+    "source": "07_ratemyprofessor.reviews.txt",
+    "chunk_index": 7,
+    "text": "Francesco Carbone — Engineering, University of Connecticut. Quality 2.3/5 from 25 ratings. 32% would take again. Difficulty 4.5/5.",
+    "n_chars": 130,
+    "strategy": "review"
+  },
+  {
+    "id": "07_ratemyprofessor.reviews::8",
+    "source": "07_ratemyprofessor.reviews.txt",
+    "chunk_index": 8,
+    "text": "Nicholas Lownes — Engineering, University of Connecticut. Quality 2.2/5 from 17 ratings. 22% would take again. Difficulty 3.7/5.",
+    "n_chars": 128,
+    "strategy": "review"
+  },
+  {
+    "id": "07_ratemyprofessor.reviews::9",
+    "source": "07_ratemyprofessor.reviews.txt",
+    "chunk_index": 9,
+    "text": "Osama Bilal — Engineering, University of Connecticut. Quality 4.1/5 from 43 ratings. 80% would take again. Difficulty 3.4/5.",
+    "n_chars": 124,
+    "strategy": "review"
+  },
+  {
+    "id": "08_uconn_female_freshman::0",
+    "source": "08_uconn_female_freshman.txt",
+    "chunk_index": 0,
+    "text": "October 4, 2021 | Eli Freund\n\nUConn Engineering Records Largest Female Freshman Class at Storrs in History\n\nFor the first time in the University of Connecticut School of Engineering’s history, over 30 percent of the freshman class at the main Storrs campus will be female—a crucial milestone on the road towards complete gender equity.\n\nBy: Eli Freund, Editorial Communications Manager, UConn School of Engineering\n\nFor the first time in the University of Connecticut School of Engineering’s history, over 30 percent of the freshman class at the main Storrs campus will be female—a crucial milestone on the road towards complete gender equity.\n\nThe official number, 31 percent, represents decades of work by the School to change the narrative of engineering as a male-dominated academic discipline",
+    "n_chars": 797,
+    "strategy": "overlap"
+  },
+  {
+    "id": "08_uconn_female_freshman::1",
+    "source": "08_uconn_female_freshman.txt",
+    "chunk_index": 1,
+    "text": "number, 31 percent, represents decades of work by the School to change the narrative of engineering as a male-dominated academic discipline through crucial capacity-building programs like BRIDGE, Multiply Your Options, SPARK, and many others.\n\nCompared to schools of engineering across the country, UConn stacks up near the top, as evidenced by a Washington Post survey that named UConn as the top public institution in the U.S. for growth in female undergraduates from 2010 to 2015 and recognition by Women Engineer magazine in 2019 as a “Top 20 University” for fostering diversity and inclusion among its student and faculty population.\n\nComparing that 30 percent female number nationally, the National Society of Women Engineers counts only 9.5 percent of female freshman who had intentions to",
+    "n_chars": 796,
+    "strategy": "overlap"
+  },
+  {
+    "id": "08_uconn_female_freshman::2",
+    "source": "08_uconn_female_freshman.txt",
+    "chunk_index": 2,
+    "text": "that 30 percent female number nationally, the National Society of Women Engineers counts only 9.5 percent of female freshman who had intentions to major in engineering, math, statistics, or computer science.\n\nIn the workforce, the current percentage of females who are professional engineers is better, but still dismal. According to the U.S. Census, “Women working in engineering occupations increased from 3% in 1970 to 15% in 2019. And while the percentage of women in computer occupations is higher than in 1970, it actually decreased between 1990 and 2019.”\n\nFor more information on the programs and initiatives that increase and foster diversity at the School of Engineering, please visit https://inclusion.engr.uconn.edu/.",
+    "n_chars": 729,
+    "strategy": "overlap"
+  },
+  {
+    "id": "09_uconn_women_engineers::0",
+    "source": "09_uconn_women_engineers.txt",
+    "chunk_index": 0,
+    "text": "November 8, 2019 | Eli Freund\n\nUConn Recognized as a Leader in Educating Women Engineers\n\nThe ranking reflects data from a survey of 135,205 women engineering student and professional subscribers of Woman Engineer magazine.\n\nA group of SPARK campers work on their underwater robots in the UConn Wolff-Zackin Natatorium during the summer of 2019. SPARK seeks to mentor and encourage 7th-9th grade females to enter the STEM fields through overnight summer camps. (UConn Photo/Christopher LaRosa)\n\nThe University of Connecticut School of Engineering has once again been recognized as a leader in the nation for fostering diversity and inclusion among its student and faculty population, according to a new “Top 20 Universities” list released by Woman Engineer magazine.\n\nThe list, which includes",
+    "n_chars": 792,
+    "strategy": "overlap"
+  },
+  {
+    "id": "09_uconn_women_engineers::1",
+    "source": "09_uconn_women_engineers.txt",
+    "chunk_index": 1,
+    "text": "student and faculty population, according to a new “Top 20 Universities” list released by Woman Engineer magazine.\n\nThe list, which includes schools such as Carnegie Mellon, Massachusetts Institute of Technology, Columbia University, and Princeton University, was determined by a survey of their 135,205 women engineering student and professional subscribers.\n\nAccording to the editors, readers based the selection on criteria such as the diversity of the student base and faculty, the diversity of the curriculum, and the schools’ ability to foster a diverse and inclusive learning environment.\n\nThis honor adds to the school’s recognized work toward gender equity and diversity in an engineering industry which has struggled with recruiting and retaining underrepresented minorities.\n\nAs part of",
+    "n_chars": 797,
+    "strategy": "overlap"
+  },
+  {
+    "id": "09_uconn_women_engineers::2",
+    "source": "09_uconn_women_engineers.txt",
+    "chunk_index": 2,
+    "text": "gender equity and diversity in an engineering industry which has struggled with recruiting and retaining underrepresented minorities.\n\nAs part of the growing recognition for UConn, The Washington Post published a survey that documented Connecticut’s flagship was the top public institution in the U.S. for growth in female undergraduates from 2010 to 2015.\n\nOn the faculty side, since fall 2017, over 40% of the school’s new hires have been female, and nearly 20% of the school’s tenure and tenure-track faculty and 38% of the assistant professor-in-residence faculty are female, both above the national average.\n\nUConn’s School of Engineering, through the work of the Engineering Diversity and Outreach Center led by Kevin McLaughlin, has built a pipeline of underrepresented minorities students",
+    "n_chars": 796,
+    "strategy": "overlap"
+  },
+  {
+    "id": "09_uconn_women_engineers::3",
+    "source": "09_uconn_women_engineers.txt",
+    "chunk_index": 3,
+    "text": "the work of the Engineering Diversity and Outreach Center led by Kevin McLaughlin, has built a pipeline of underrepresented minorities students into the school.\n\nPrograms include BRIDGE, a five-week intensive summer program designed to prepare students who are underrepresented minorities to smoothly transition into UConn’s engineering curriculum. Others, such as SPARK, seek to mentor and encourage females to enter the STEM fields through overnight summer camps.",
+    "n_chars": 465,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::0",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 0,
+    "text": "College of Engineering\n\nOverview\n\nPrograms\n\nAdmissions\n\nRequirements\n\nJi-Cheng \"JC\" Zhao, Ph.D., Dean\n\nDaniel Burkey, Ph.D., Associate Dean\n\nWhitney L. Losapio, Ed.D, Executive Director\n\nInternational Engineering Programs\n\nThe College of Engineering and the College of Liberal Arts and Sciences offer five-year, dual degree programs in German (Eurotech), French (Technopole France), and Spanish (Engineering Spanish Program). The programs include courses taught in the respective languages specifically designed to include engineering content. During the fourth year, students study abroad, taking coursework taught in their major’s language during the first semester and complete an internship during their second semester.\n\nStudents who wish to concentrate their elective work in a second field",
+    "n_chars": 796,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::1",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 1,
+    "text": "first semester and complete an internship during their second semester.\n\nStudents who wish to concentrate their elective work in a second field within the College of Engineering may elect a double major program or a dual degree. Students seeking to double major (BSE and BSE) or pursue a dual degree (BS and BSE) should consult with their assigned academic advisor, and may need to meet with multiple faculty or staff advisors to co-create a plan of study.\n\nThe College of Engineering also offers Minors in:\n\nBioinformatics\n\nBiomedical Engineering\n\nComputer Science\n\nConstruction Engineering and Management\n\nElectronics and Systems\n\nEngineering Management\n\nEntrepreneurship and Technology Innovation\n\nEnvironmental Engineering\n\nInformation Assurance\n\nInformation",
+    "n_chars": 762,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::2",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 2,
+    "text": "and Technology Innovation\n\nEnvironmental Engineering\n\nInformation Assurance\n\nInformation Technology\n\nManufacturing\n\nMaterials Science and Engineering\n\nNanotechnology\n\nPlease refer to the “Minors” section of this publication for these and other relevant minor descriptions.\n\nMajors\n\n#\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nW\n\nX\n\nY\n\nZ\n\nB\n\nBiomedical Engineering (BSE)\n\nC\n\nChemical Engineering (BSE)\n\nCivil Engineering (BSE)\n\nComputer Engineering (BS)\n\nComputer Science (BS)\n\nComputer Science and Engineering (BSE)\n\nD\n\nData Science and Engineering (BS)\n\nE\n\nElectrical Engineering (BSE)\n\nEngineering Physics (BSE)\n\nEnvironmental Engineering (BSE)\n\nM\n\nManagement and Engineering for Manufacturing (BS)\n\nMaterials Science and Engineering (BSE)\n\nMechanical Engineering",
+    "n_chars": 790,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::3",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 3,
+    "text": "Engineering (BSE)\n\nM\n\nManagement and Engineering for Manufacturing (BS)\n\nMaterials Science and Engineering (BSE)\n\nMechanical Engineering (BSE)\n\nMultidisciplinary Engineering (BSE)\n\nR\n\nRobotics Engineering (BSE)\n\nThe majors offered by the College of Engineering lead to Bachelor of Science of Engineering (BSE) degrees except for the Computer Science, Data Science and Engineering, and Management and Engineering in Manufacturing majors, which lead to Bachelor of Science (BS) degrees. See major descriptions for credit totals and accreditation information.\n\nAdmission Requirements\n\nSee Admission to the University section of this publication. All students admitted to the College of Engineering are required to take a math placement exam prior to attending orientation and registering for their",
+    "n_chars": 794,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::4",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 4,
+    "text": "admitted to the College of Engineering are required to take a math placement exam prior to attending orientation and registering for their first semester. Based on the survey results, students may be required to take additional preparatory course work that may not be counted toward graduation. Students not admitted into the College of Engineering at the time of entry to the University may apply for admission to a major through the College of Engineering. Admission is competitive. Decisions will be based on several criteria including the applicant’s academic record, courses completed, and space availability. Students in the School may request a change to their major later by submitting an application to the College of Engineering and meeting the admission criteria for that",
+    "n_chars": 782,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::5",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 5,
+    "text": "a change to their major later by submitting an application to the College of Engineering and meeting the admission criteria for that major.\n\nScholarships\n\nThe College of Engineering offers academic merit based scholarships to first-year and continuing students. The University offers merit based scholarships to eligible incoming first-year students.\n\nFaculty Advisors, Professional Advisors and Academic Support\n\nAdvising in the College of Engineering is mandatory for every student, every semester. Academic advising in the College of Engineering is done jointly by trained professional staff and faculty advisors. Typically, first- and second-year students are assigned to a professional staff advisor in order to assist students in their transition to college, aid students in navigating the",
+    "n_chars": 795,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::6",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 6,
+    "text": "students are assigned to a professional staff advisor in order to assist students in their transition to college, aid students in navigating the University, and collaborate in course selection and academic planning. Faculty advisors typically meet with engineering students with junior or senior standing in order to assist students in their course selection, counsel them in meeting their educational and career goals, and provide discipline-specific mentorship. Faculty advisors and professional staff advisors are assigned to students entering the College of Engineering according to the student’s major. The College of Engineering provides additional content-specific academic support via the Engineering Tutoring Center. The Engineering Tutoring Center is staffed by undergraduate engineering",
+    "n_chars": 797,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::7",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 7,
+    "text": "content-specific academic support via the Engineering Tutoring Center. The Engineering Tutoring Center is staffed by undergraduate engineering students and provides 40+ hours of weekly tutoring to all students on a walk-in basis.\n\nCollege Academic Requirements\n\nStudents in the College of Engineering must complete the following requirements:\n\nCommon Curriculum Requirements\n\nThe Common Curriculum Requirements provide students with academic breadth and depth through a set of intellectually rigorous and challenging courses that foster skills and attributes associated with leadership and global citizenship. The program allows student students to make choices in their studies, to make connections between different disciplines and ideas, and to explore their creativity by taking courses that",
+    "n_chars": 795,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::8",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 8,
+    "text": "choices in their studies, to make connections between different disciplines and ideas, and to explore their creativity by taking courses that fall into six Topics of Inquiry (TOIs) and additional required Competencies. These requirements appear in the “Common Curriculum” section of this Catalog.\n\nAdditionally, all engineering students are required to complete:\n\nA one-time electronic preliminary plan of study submitted after 54 earned credits.\n\nCourse List\n\nCourse\nTitle\nCredits\n\nMATH 1131Q\n\n& MATH 1132QCalculus I\n\nand Calculus II8\n\nCSE 1010Introduction to Computing for Engineers3\n\nAll majors, except B.S. in Computer Science and B.S. in Data Science and Engineering majors, are required to complete:\n\nCourse List\n\nCourse\nTitle\nCredits\n\nCHEM 1127QGeneral Chemistry I4\n\nSelect one of the",
+    "n_chars": 791,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::9",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 9,
+    "text": "and Engineering majors, are required to complete:\n\nCourse List\n\nCourse\nTitle\nCredits\n\nCHEM 1127QGeneral Chemistry I4\n\nSelect one of the following:8-11\n\nPHYS 1201Q\n\n& PHYS 1202Q\n\n& PHYS 1230\nGeneral Physics I\n\nand General Physics II\n\nand General Physics Problems\n\nPHYS 1401Q\n\n& PHYS 1402Q\nGeneral Physics with Calculus I\n\nand General Physics with Calculus II\n\nPHYS 1501Q\n\n& PHYS 1502Q\nPhysics for Engineers I\n\nand Physics for Engineers II\n\nThe University writing requirement is fulfilled through one First-Year Writing Course (ENGL 1007 Seminar and Studio in Writing and Multimodal Composition or ENGL 1010 Seminar in Academic Writing or ENGL 1011 Seminar in Writing through Literature) and two W courses, at least one in the major. Some programs have the required two W courses specified in the",
+    "n_chars": 794,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::10",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 10,
+    "text": "in Writing through Literature) and two W courses, at least one in the major. Some programs have the required two W courses specified in the curriculum. If there are not two W courses in the program, each student must take a minimum of one W course outside the major to satisfy the University’s Common Curriculum writing requirements.\n\nAll first-year students must complete ENGR 1166 Foundations of Engineering before taking any 2000-level engineering courses in their discipline. Students that transfer into the College of Engineering after their first year, or after already taking a 2000-level engineering course, can fulfill this requirement by taking any additional 3-credit, 2000-level or higher course in any College of Engineering department.\n\nCredit Restrictions\n\nStudents should read",
+    "n_chars": 792,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::11",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 11,
+    "text": "any additional 3-credit, 2000-level or higher course in any College of Engineering department.\n\nCredit Restrictions\n\nStudents should read carefully the course descriptions in the Undergraduate Catalog before they register because some of the course credits may not count toward graduation. The following courses may not be counted for credit toward graduation in the College of Engineering: MATH courses numbered 1110Q and below. No course taken on a Pass/Fail basis may be counted for credit toward the required credits for graduation nor toward any course requirements for the College of Engineering.\n\nMajor Requirements and Normal Sequences\n\nIn addition to the University’s Common Curriculum requirements and the College requirements listed above, the requirements for the specific majors are",
+    "n_chars": 795,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::12",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 12,
+    "text": "to the University’s Common Curriculum requirements and the College requirements listed above, the requirements for the specific majors are listed in the following pages. Full program details, normal/updated course sequences, and accreditation requirements can be found on the respective departmental website.\n\nAccreditation Graduation Requirements\n\nThese requirements are for the following programs: Biomedical Engineering, Chemical Engineering, Civil Engineering, Computer Engineering, Computer Science and Engineering, Electrical Engineering, Environmental Engineering, Management and Engineering for Manufacturing, Materials Science and Engineering, Mechanical Engineering, Multidisciplinary Engineering, and Robotics Engineering.\n\nABET Requirements\n\nMath/Science Credits - Minimum of 30 credits",
+    "n_chars": 798,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::13",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 13,
+    "text": "Mechanical Engineering, Multidisciplinary Engineering, and Robotics Engineering.\n\nABET Requirements\n\nMath/Science Credits - Minimum of 30 credits (any TOI 6 course) including all courses from BIOL, CHEM, EEB, ERTH, GEOG, MARN, MATH, MCB, NUSC, NRE, PHYS, PNB, and STAT (unless restricted by program or school). SPSS courses may be used to satisfy this requirement if approved by the Office of the Dean.\n\nEngineering Credits - Minimum of 45 credits from BME, CE, CHEG, CSE, ECE, ENGR, ENVE, ME, MEM, MSE, excluding classes as noted.\n\nAccreditation Documentation Statements\n\nThe program educational objectives are intended to be statements that describe the expected accomplishments of graduates during the first several years following graduation from the program. Each program’s educational",
+    "n_chars": 790,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::14",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 14,
+    "text": "the expected accomplishments of graduates during the first several years following graduation from the program. Each program’s educational objectives are listed within the actual program.\n\nCollege of Engineering Supplementary Scholastic Standards Policy\n\nTo be in good academic standing in the College of Engineering, students must maintain a 2.5 cumulative GPA after completing 24 or more credits. Students must maintain a minimum 2.3 cumulative GPA to continue in the College of Engineering.\n\nStudents who fall below a 2.3 cumulative GPA after 24 credits in residence will be removed from the College of Engineering and moved to the Academic Center for Exploratory Students.\n\nStudents will have the opportunity to appeal this decision. If a student’s cumulative GPA falls between 2.3 and 2.5,",
+    "n_chars": 794,
+    "strategy": "overlap"
+  },
+  {
+    "id": "10_uconn_catalog_reqs::15",
+    "source": "10_uconn_catalog_reqs.txt",
+    "chunk_index": 15,
+    "text": "for Exploratory Students.\n\nStudents will have the opportunity to appeal this decision. If a student’s cumulative GPA falls between 2.3 and 2.5, they will be considered on academic probation for the College of Engineering.\n\nStudents on academic probation will be reduced to a 14-credit load until the cumulative GPA improves to at least 2.5. Students may stay in the College of Engineering while on academic probation with the reduced credit load.",
+    "n_chars": 446,
+    "strategy": "overlap"
+  }
+]

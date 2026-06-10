@@ -1,0 +1,12 @@
+[
+  {"id": "01", "name": "usnews_ranking",        "type": "article", "url": "https://www.usnews.com/best-graduate-schools/top-engineering-schools/university-of-connecticut-02036"},
+  {"id": "02", "name": "reddit_academic_pressure","type": "reddit",  "url": "https://www.reddit.com/r/UCONN/comments/1blyp5m/how_hard_is_engineering_academic_pressure_and/"},
+  {"id": "03", "name": "reddit_professors",       "type": "reddit",  "url": "https://www.reddit.com/r/UCONN/comments/1f1t50k/how_are_the_engineering_professors_at_uconn/"},
+  {"id": "04", "name": "quora_cs_department",     "type": "quora",   "url": "https://www.quora.com/How-is-the-Computer-Science-Department-at-UCONN"},
+  {"id": "05", "name": "reddit_engineering_lc",   "type": "reddit",  "url": "https://www.reddit.com/r/UCONN/comments/12yw9mn/choosing_an_engineering_lc/"},
+  {"id": "06", "name": "uconn_experiential_ed",   "type": "article", "url": "https://advising.engineering.uconn.edu/support-opportunities/engineering-experiential-education/"},
+  {"id": "07", "name": "ratemyprofessor",         "type": "rmp",     "url": "https://www.ratemyprofessors.com/search/professors/1091?q=*&did=17"},
+  {"id": "08", "name": "uconn_female_freshman",   "type": "article", "url": "https://today.uconn.edu/2021/10/uconn-engineering-records-largest-female-freshman-class-at-storrs-in-history/"},
+  {"id": "09", "name": "uconn_women_engineers",   "type": "article", "url": "https://today.uconn.edu/2019/11/uconn-national-leader-educating-women-engineers/"},
+  {"id": "10", "name": "uconn_catalog_reqs",      "type": "article", "url": "https://catalog.uconn.edu/undergraduate/engineering/#requirementstext"}
+]

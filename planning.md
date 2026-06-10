@@ -44,10 +44,10 @@ I chose to do the a review of the engineering department at a university. This i
      When researching the best way to split documents that vary, I think that I will need to scan my sources before I decide how I will split it. The reddit comments will need to be split different compared to my articles.
 
 **Chunk size:**
-Reddit/Quora?Ratings: One chunk per comment/review
+Reddit/Quora Ratings: One chunk per comment/review, 800 chars for articles 
 
 **Overlap:**
-Will matter with articles, not with rate my professor or reddit comments
+150 char overlap will matter with articles, not with rate my professor or reddit comments, 150 overlap
 
 **Reasoning:**
 
